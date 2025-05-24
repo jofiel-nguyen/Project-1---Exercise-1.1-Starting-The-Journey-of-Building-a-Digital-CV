@@ -60,8 +60,7 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
-
+Distributed under the MIT License. See the [LICENSE](https://github.com/jofiel-nguyen/Project-1---Exercise-1.1-Starting-The-Journey-of-Building-a-Digital-CV/blob/main/LICENSE) file for more information.
 ## Contact
 Your Name - Your Email
 Project Link: https://github.com/your-username/Project-1---Exercise-1.1-Starting-The-Journey-of-Building-a-Digital-CV
